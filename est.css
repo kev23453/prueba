@@ -1,0 +1,18 @@
+body{
+	background : #363636;
+	color:#eee;
+}
+h2{
+	position: relative;
+}
+.normal{
+	background: #f1322b;
+	padding: 10px;
+	width: 40%;
+}
+.logo{
+	font-family: 'Bebas Neue', cursive;
+	color: #f1322b;
+	font-size: 30px;
+}
+hr {border: 2px inset #eee; height: 1px; width: 100%;}
